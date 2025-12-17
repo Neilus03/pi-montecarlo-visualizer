@@ -1,0 +1,5 @@
+{
+  "name": "Pi Monte Carlo Visualizer",
+  "description": "An interactive mathematical simulation that estimates the value of Pi by dropping virtual balls onto a circle with an inscribed square.",
+  "requestFramePermissions": []
+}
